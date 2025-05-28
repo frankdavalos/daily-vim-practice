@@ -1,0 +1,5 @@
+# This project primarily uses Python standard library modules
+# These are optional packages that may be helpful for development
+pytest>=7.0.0  # For testing
+black>=23.0.0  # Code formatting
+isort>=5.0.0   # Import sorting
