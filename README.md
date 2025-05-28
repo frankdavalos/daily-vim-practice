@@ -11,8 +11,8 @@ Vim Daily gives you a structured way to learn Vim commands by serving up one les
 Clone this repository and install the package:
 
 ```bash
-git clone https://github.com/yourusername/vim-daily.git
-cd vim-daily
+git clone https://github.com/frankdavalos/daily-vim-practice.git
+cd daily-vim-practice
 # Optional: Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
