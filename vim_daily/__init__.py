@@ -1,0 +1,1 @@
+"""Vim Daily - A tool for daily Vim practice."""

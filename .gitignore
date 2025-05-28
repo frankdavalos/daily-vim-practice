@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Test coverage
+.coverage
+htmlcov/
+.tox/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+# Keep the directories but ignore generated content
+lessons/*
+!lessons/.gitkeep
+rounds/*
+!rounds/.gitkeep
+data/*
+!data/.gitkeep
+
+# Logs
+*.log
