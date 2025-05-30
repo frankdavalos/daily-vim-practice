@@ -4,7 +4,7 @@ A Python tool to help practice Vim skills through daily lessons extracted from v
 
 ## Overview
 
-Vim Daily gives you a structured way to learn Vim commands by serving up one lesson from vimtutor each day. It tracks your progress and ensures you don't see the same lesson twice until you've completed all lessons.
+Vim Daily gives you a structured way to learn Vim commands by serving up one lesson from vimtutor with each run. It tracks your progress and ensures you don't see the same lesson twice until you've completed all lessons.
 
 ## Installation
 
